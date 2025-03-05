@@ -25,7 +25,7 @@ Klasifikasi Diskon:
 
 📂 File dalam Repositori :
 FinPro MySkill B7.xlsx → File Excel berisi dashboard lengkap.
-data_source by MySkill Final Project
+Data Source by MySkill Final Project.
 
 🚀 Cara Menggunakan :
 Download file financial_dashboard.xlsx.
