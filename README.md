@@ -23,11 +23,11 @@ Segmen lainnya seperti Enterprise dan Small Business memiliki kontribusi yang le
 Klasifikasi Diskon:
 35% pelanggan mendapatkan diskon tinggi, sementara 9% tidak mendapatkan diskon sama sekali.
 
-📂 File dalam Repositori
+📂 File dalam Repositori :
 FinPro MySkill B7.xlsx → File Excel berisi dashboard lengkap.
 data_source by MySkill Final Project
 
-🚀 Cara Menggunakan
+🚀 Cara Menggunakan :
 Download file financial_dashboard.xlsx.
 Buka di Excel dan eksplorasi dashboard menggunakan filter yang tersedia.
 Gunakan filter negara dan bulan untuk melihat detail per kategori.
