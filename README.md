@@ -23,6 +23,10 @@ Segmen lainnya seperti Enterprise dan Small Business memiliki kontribusi yang le
 Klasifikasi Diskon:
 35% pelanggan mendapatkan diskon tinggi, sementara 9% tidak mendapatkan diskon sama sekali.
 
+📌 Kesimpulan
+Secara keseluruhan, perusahaan B7 menghasilkan laba bersih sekitar $12,97 juta dari total pendapatan $103,75 juta. Produk "Amarilla" menjadi penyumbang laba terbesar, dan segmen pemerintah merupakan kontributor utama pendapatan. Hal ini bisa dimanfaatkan dengan bekerja sama dengan sektor pemerintah untuk me-maintain transaksi kedepannya.
+Biaya manufaktur adalah pengeluaran terbesar perusahaan sehingga bisa menjadi bahan pertimbangan kedepannya, dan sebagian besar pelanggan menerima diskon rendah atau tidak sama sekali.
+
 📂 File dalam Repositori :
 FinPro MySkill B7.xlsx → File Excel berisi dashboard lengkap.
 Data Source by MySkill Final Project.
